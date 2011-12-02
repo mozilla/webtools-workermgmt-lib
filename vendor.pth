@@ -15,3 +15,4 @@ src/tower
 src/bleach
 src/django-session-csrf
 src/django-multidb-router
+src/httplib2
